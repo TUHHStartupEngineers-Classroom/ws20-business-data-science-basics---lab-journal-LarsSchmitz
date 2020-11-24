@@ -1,6 +1,6 @@
 ---
 title: "Journal (reproducible report)"
-author: "Lars E. Schmitz"
+author: "Lars Schmitz"
 date: "2020-11-24"
 output:
   html_document:
